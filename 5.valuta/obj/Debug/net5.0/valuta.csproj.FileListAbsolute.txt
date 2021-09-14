@@ -1,0 +1,16 @@
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta.deps.json
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta.runtimeconfig.json
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta.runtimeconfig.dev.json
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta.dll
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/ref/valuta.dll
+/home/rasmus/Documents/CSProjects/5.valuta/bin/Debug/net5.0/valuta.pdb
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.csproj.AssemblyReference.cache
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.GeneratedMSBuildEditorConfig.editorconfig
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.AssemblyInfoInputs.cache
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.AssemblyInfo.cs
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.csproj.CoreCompileInputs.cache
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.dll
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/ref/valuta.dll
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.pdb
+/home/rasmus/Documents/CSProjects/5.valuta/obj/Debug/net5.0/valuta.genruntimeconfig.cache

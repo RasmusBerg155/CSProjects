@@ -1,2 +1,2 @@
-# CSProjects
-C# Projects from elective
+# C-Projects
+Projects made in C# elective
