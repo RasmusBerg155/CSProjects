@@ -1,0 +1,16 @@
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.csproj.AssemblyReference.cache
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.AssemblyInfoInputs.cache
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.AssemblyInfo.cs
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.exe
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.deps.json
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.runtimeconfig.json
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.runtimeconfig.dev.json
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.dll
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\ref\5.assignments.dll
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\bin\Debug\net5.0\5.assignments.pdb
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.dll
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\ref\5.assignments.dll
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.pdb
+C:\Users\Rasmus\Documents\CSProjects\5.assignments\obj\Debug\net5.0\5.assignments.genruntimeconfig.cache
